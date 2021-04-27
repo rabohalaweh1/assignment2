@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameEdit" type="id">nameEdt</item>
+    <item name="emailEdit" type="id">emailEdt</item>
+    <item name="addressEdit" type="id">addEdt</item>
+    <item name="phoneEdit" type="id">phoneEdt</item>
+    <item name="ageEdit" type="id">ageEdt</item>
+    <item name="hobEdit" type="id">hobbEdt</item>
+    <item name="rdg" type="id">rdg</item>
+    <item name="spinerEdit" type="id">spinEdt</item>
+    <item name="savebotton" type="id">saveBtn</item>
+    <item name="nextBotton" type="id">nextBtn</item>
+</resources>
